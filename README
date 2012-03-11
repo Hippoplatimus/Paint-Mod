@@ -1,0 +1,11 @@
+Open Source version of the Paint Mod. Check out the License file before doing anything. PLEASE DON'T EDIT THIS FILE!
+
+I would prefer not to make the Paint Mod into a giant mod by adding a bunch of unrelated blocks and items. If you do want to work on the Paint Mod, please just fix bugs and add features that fit well with the core ideas (painting on blocks).
+
+Someone should really port the mod to Forge. Just saying.
+
+All of the modified source files have a comment at the top explaining why they were modified. If there's a license instead, then the file is new.
+
+en_US.lang in the lang folder in the out folder is there to add the names of the items. If you port the Paint Mod to Forge (or even ModLoader), then that files should no longer be necessary; use code to add the item names instead.
+
+If you compile the mod, throw the .class files in the out folder, so I can bundle it up and release it. I'll give credit where it's due.
